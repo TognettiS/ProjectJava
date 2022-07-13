@@ -1,5 +1,8 @@
 # ProjectJava
 Caso queira visualizar os arquivos altere o branch de Main para Master.
 
-ProjetoJava:
-1- Consulta de dados de produtos
+Programações Java:
+
+ProjetoJava - Consulta de dados de produtos.
+
+ProjetoJavaFicha - Inserção de dados nas categorias: nome, idade, sexo, altura e peso com consulta das informações ao final.
